@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# virtual envs (any depth)
+env/
+venv/
+.venv/
+**/env/
+**/venv/
+**/.venv/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
